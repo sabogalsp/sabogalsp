@@ -14,4 +14,14 @@ Este año estoy estudiando Analisis y Desarrollo de Softwate (ADSO).
 
 * Futuro desarrollador de Back-end autodidacta y apasionado
 * Actualmente aprendiendo Python por cuenta propia
-* En mi tiempo libre juego Voleibol
+* En mi tiempo libre me gusta jugar voleibol
+
+## Tecnologías :
+
+[![Windows](https://img.shields.io/badge/Windows-802DBF?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)]()
+</br>
+[![Python](https://img.shields.io/badge/Python-802DBF?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
+[![MySQL](https://img.shields.io/badge/MySQL-802DBF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
+</br>
+[![Git](https://img.shields.io/badge/Git-802DBF?style=for-the-badge&logo=git&logoColor=white&labelColor=black)]()
+[![MySQL](https://img.shields.io/badge/Visual_Studio_Code-802DBF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)]()
