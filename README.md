@@ -13,7 +13,7 @@ Soy estudiante del SENA desde hace mas de dos años.
 
 Este año estoy estudiando Analisis y Desarrollo de Softwate (ADSO).
 
-* Futuro desarrollador de Back-end y Front-end, autodidacta y apasionado
+* Futuro desarrollador de Back-end, autodidacta y apasionado
 * Actualmente aprendiendo programacion orientada en objetos con Python por cuenta propia
 * En mi tiempo libre me gusta jugar voleibol
 
@@ -32,10 +32,10 @@ Este año estoy estudiando Analisis y Desarrollo de Softwate (ADSO).
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFC300?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)]()
-[![Java](https://img.shields.io/badge/java-FFC300?style=for-the-badge&logo=java&logoColor=white&labelColor=black)]()
 [![Android](https://img.shields.io/badge/Android-FFC300?style=for-the-badge&logo=android&logoColor=white&labelColor=black)]()
+[![FastApi](https://img.shields.io/badge/FastApi-FFC300?style=for-the-badge&logo=FastApi&logoColor=white&labelColor=black)]()
+[![Java](https://img.shields.io/badge/java-FFC300?style=for-the-badge&logo=java&logoColor=white&labelColor=black)]()
 <br>
-Y algunas mas...
 
 
 ## Encuentrame en :
