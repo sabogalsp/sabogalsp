@@ -11,7 +11,7 @@
   -----------------
   Name: Steven
   OS: GitHub x86_64
-  Languages: ["Python", "MongoDB", "Bash"]
+  Languages: ["Python", "Django", "Bash"]
   Intrests: ["Back-end", "Linux" , "CyberSecurity"]  
   Uptime: 18 Years
   ```
@@ -25,6 +25,7 @@
 [![linux](https://img.shields.io/badge/Linux-CC000E?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=black)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-CC000E?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
+[![Django](https://img.shields.io/badge/Django-CC000E?style=for-the-badge&logo=django&logoColor=white&labelColor=black)]()
 [![MySQL](https://img.shields.io/badge/MySQL-CC000E?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-CC000E?style=for-the-badge&logo=git&logoColor=white&labelColor=black)]()
